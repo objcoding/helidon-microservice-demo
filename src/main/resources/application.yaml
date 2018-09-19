@@ -1,0 +1,10 @@
+# web server 配置
+server:
+    # 服务端口
+    port: 8080
+    # 服务主机
+    host: 0.0.0.0
+
+# 自定义配置
+app:
+  greeting: "Hello"
